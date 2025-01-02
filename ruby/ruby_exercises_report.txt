@@ -1,0 +1,149 @@
+Total exercises: 107
+
+Category: basics
+- Lasagna (Easy)
+- Two Fer (Easy)
+
+Category: instance-variables
+- Amusement Park (Easy)
+- Matrix (Medium)
+- Two Bucket (Medium)
+- Simple Cipher (Easy)
+- Simple Linked List (Medium)
+- Binary Search Tree (Medium)
+
+Category: nil
+- Amusement Park (Easy)
+- Bowling (Medium)
+
+Category: booleans
+- Amusement Park Improvements (Easy)
+
+Category: strings
+- Log line Parser (Easy)
+- Two Fer (Easy)
+- Acronym (Easy)
+- Isogram (Easy)
+- Luhn (Easy)
+- Twelve Days (Medium)
+- Tournament (Easy)
+- RNA Transcription (Easy)
+- Pangram (Easy)
+- Anagram (Medium)
+- Resistor Color Trio (Medium)
+- Proverb (Medium)
+- Bob (Medium)
+- Run-Length Encoding (Medium)
+- Minesweeper (Medium)
+- Bottle Song (Easy)
+- Rotational Cipher (Easy)
+- House (Medium)
+- ISBN Verifier (Easy)
+- Diamond (Medium)
+- OCR Numbers (Hard)
+- Food Chain (Medium)
+
+Category: numbers
+- Assembly Line (Easy)
+- Eliud's Eggs (Easy)
+- Clock (Easy)
+- Leap (Easy)
+- Difference of Squares (Easy)
+- Sum of Multiples (Medium)
+- Collatz Conjecture (Easy)
+- Perfect Numbers (Medium)
+- Roman Numerals (Easy)
+
+Category: floating-point-numbers
+- Assembly Line (Easy)
+- Space Age (Easy)
+- Triangle (Easy)
+- Book Store (None)
+- Darts (Easy)
+
+Category: conditionals
+- Assembly Line (Easy)
+- Hamming (Easy)
+- Raindrops (Easy)
+- Leap (Easy)
+- Collatz Conjecture (Easy)
+- Robot Simulator (Medium)
+- Wordy (Easy)
+- Say (Hard)
+- Grep (None)
+- Food Chain (Medium)
+- Darts (Easy)
+
+Category: loops
+- Savings Account (Easy)
+- Hamming (Easy)
+- Transpose (Medium)
+- Collatz Conjecture (Easy)
+- Palindrome Products (Medium)
+- Binary Search (Medium)
+- All Your Base (Easy)
+- Protein Translation (Easy)
+- Roman Numerals (Easy)
+- Prime Factors (Easy)
+- Book Store (None)
+
+Category: modules
+- Savings Account (Easy)
+
+Category: symbols
+- Port Of Palermo (Easy)
+
+Category: ranges
+- Chess Game (Easy)
+
+Category: case
+- BlackJack (Easy)
+
+Category: arrays
+- Bird Count (Easy)
+- Resistor Color Duo (Easy)
+- High Scores (Easy)
+- Matrix (Medium)
+- Series (Easy)
+- Resistor Color (Easy)
+- Anagram (Medium)
+- Saddle Points (Medium)
+- Sieve (Easy)
+- List Ops (Easy)
+
+Category: enumeration
+- Bird Count (Easy)
+- Eliud's Eggs (Easy)
+- Sum of Multiples (Medium)
+- Flatten Array (Easy)
+- Atbash Cipher (Easy)
+- Affine Cipher (Easy)
+
+Category: advanced-enumeration
+- Boutique Inventory (Easy)
+- High Scores (Easy)
+- Hamming (Easy)
+- RNA Transcription (Easy)
+- Difference of Squares (Easy)
+- ETL (Medium)
+- Protein Translation (Easy)
+- Change (Medium)
+- Book Store (None)
+
+Category: ostruct
+- Boutique Inventory Improvements (Easy)
+
+Category: multiple-assignment-and-decomposition
+- Locomotive Engineer (Easy)
+
+Category: ternary-operator
+- Moviegoer (Easy)
+
+Category: exceptions
+- Simple Calculator (Easy)
+- Series (Easy)
+- Hamming (Easy)
+- Nucleotide Count (Medium)
+- Change (Medium)
+- Circular Buffer (Medium)
+
